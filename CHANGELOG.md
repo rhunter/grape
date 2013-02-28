@@ -1,6 +1,7 @@
 Next Release
 ============
 
+* [#353](https://github.com/intridea/grape/issues/353): Fix: Grape no longer loads ActiveSupport logging extensions (this restores the pre-0.3 behavior) - [@rhunter](https://github.com/rhunter).
 * Your contribution here.
 
 0.3.2 (2/28/2013)
